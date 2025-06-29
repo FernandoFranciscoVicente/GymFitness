@@ -1,0 +1,118 @@
+[25-Jun-2025 21:40:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "h1" in C:\laragon\www\IntroduccionPHP\01_block.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\IntroduccionPHP\01_block.php on line 12
+[25-Jun-2025 21:43:09 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\laragon\www\IntroduccionPHP\01_block.php on line 11
+[25-Jun-2025 21:43:10 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\laragon\www\IntroduccionPHP\01_block.php on line 11
+[25-Jun-2025 21:43:10 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\laragon\www\IntroduccionPHP\01_block.php on line 11
+[25-Jun-2025 21:43:53 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "<br>", expecting "," or ";" in C:\laragon\www\IntroduccionPHP\01_block.php on line 11
+[25-Jun-2025 21:43:54 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "<br>", expecting "," or ";" in C:\laragon\www\IntroduccionPHP\01_block.php on line 11
+[25-Jun-2025 21:48:12 UTC] PHP Parse error:  syntax error, unexpected identifier "es", expecting ")" in C:\laragon\www\IntroduccionPHP\01_block.php on line 13
+[25-Jun-2025 21:58:16 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "<br>", expecting "," or ";" in C:\laragon\www\IntroduccionPHP\02_echo.php on line 7
+[25-Jun-2025 21:58:28 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\laragon\www\IntroduccionPHP\02_echo.php on line 7
+[25-Jun-2025 21:58:29 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\laragon\www\IntroduccionPHP\02_echo.php on line 7
+[25-Jun-2025 21:58:29 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\laragon\www\IntroduccionPHP\02_echo.php on line 7
+[25-Jun-2025 21:58:29 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\laragon\www\IntroduccionPHP\02_echo.php on line 7
+[25-Jun-2025 21:59:04 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\laragon\www\IntroduccionPHP\02_echo.php on line 8
+[25-Jun-2025 21:59:05 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\laragon\www\IntroduccionPHP\02_echo.php on line 8
+[25-Jun-2025 21:59:05 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\laragon\www\IntroduccionPHP\02_echo.php on line 8
+[25-Jun-2025 21:59:05 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\laragon\www\IntroduccionPHP\02_echo.php on line 8
+[25-Jun-2025 21:59:05 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\laragon\www\IntroduccionPHP\02_echo.php on line 8
+[25-Jun-2025 22:09:24 UTC] PHP Parse error:  syntax error, unexpected variable "$nombre", expecting "," or ";" in C:\laragon\www\IntroduccionPHP\03_variables.php on line 7
+[25-Jun-2025 22:09:28 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in C:\laragon\www\IntroduccionPHP\03_variables.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\IntroduccionPHP\03_variables.php on line 7
+[25-Jun-2025 22:11:56 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\laragon\www\IntroduccionPHP\03_variables.php on line 10
+[25-Jun-2025 22:16:55 UTC] PHP Parse error:  syntax error, unexpected variable "$nombre_de_la_mascota", expecting "," or ";" in C:\laragon\www\IntroduccionPHP\03_variables.php on line 14
+[25-Jun-2025 22:17:03 UTC] PHP Parse error:  syntax error, unexpected variable "$numero_1", expecting "(" in C:\laragon\www\IntroduccionPHP\04_condicionales.php on line 12
+[25-Jun-2025 22:17:16 UTC] PHP Parse error:  syntax error, unexpected variable "$numero_1", expecting "(" in C:\laragon\www\IntroduccionPHP\04_condicionales.php on line 12
+[25-Jun-2025 22:17:17 UTC] PHP Parse error:  syntax error, unexpected variable "$numero_1", expecting "(" in C:\laragon\www\IntroduccionPHP\04_condicionales.php on line 12
+[25-Jun-2025 22:17:43 UTC] PHP Parse error:  syntax error, unexpected variable "$numero_1", expecting "(" in C:\laragon\www\IntroduccionPHP\04_condicionales.php on line 12
+[25-Jun-2025 22:29:59 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\IntroduccionPHP\05_arrays.php on line 10
+[25-Jun-2025 22:30:00 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\IntroduccionPHP\05_arrays.php on line 10
+[25-Jun-2025 22:30:06 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in C:\laragon\www\IntroduccionPHP\05_arrays.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\IntroduccionPHP\05_arrays.php on line 10
+[25-Jun-2025 22:30:30 UTC] PHP Fatal error:  Uncaught Error: Class "manzana" not found in C:\laragon\www\IntroduccionPHP\05_arrays.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\IntroduccionPHP\05_arrays.php on line 10
+[25-Jun-2025 22:35:40 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\laragon\www\IntroduccionPHP\05_arrays.php on line 14
+[25-Jun-2025 22:36:26 UTC] PHP Parse error:  syntax error, unexpected identifier "s", expecting "]" in C:\laragon\www\IntroduccionPHP\05_arrays.php on line 15
+[25-Jun-2025 22:38:46 UTC] PHP Parse error:  syntax error, unexpected identifier "array_push" in C:\laragon\www\IntroduccionPHP\05_arrays.php on line 16
+[25-Jun-2025 22:38:47 UTC] PHP Parse error:  syntax error, unexpected identifier "array_push" in C:\laragon\www\IntroduccionPHP\05_arrays.php on line 16
+[25-Jun-2025 23:00:51 UTC] PHP Warning:  Undefined variable $estudiantes in C:\laragon\www\IntroduccionPHP\06_arrays_assoc.php on line 16
+[25-Jun-2025 23:01:54 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\laragon\www\IntroduccionPHP\06_arrays_assoc.php on line 18
+[25-Jun-2025 23:02:04 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\laragon\www\IntroduccionPHP\06_arrays_assoc.php on line 18
+[25-Jun-2025 23:02:05 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\laragon\www\IntroduccionPHP\06_arrays_assoc.php on line 18
+[25-Jun-2025 23:02:06 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\laragon\www\IntroduccionPHP\06_arrays_assoc.php on line 18
+[25-Jun-2025 23:02:06 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\laragon\www\IntroduccionPHP\06_arrays_assoc.php on line 18
+[25-Jun-2025 23:02:07 UTC] PHP Parse error:  syntax error, unexpected token "echo" in C:\laragon\www\IntroduccionPHP\06_arrays_assoc.php on line 18
+[25-Jun-2025 23:17:10 UTC] PHP Warning:  Undefined array key "direccion" in C:\laragon\www\IntroduccionPHP\06_arrays_assoc.php on line 23
+[25-Jun-2025 23:48:29 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[25-Jun-2025 23:48:29 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[25-Jun-2025 23:48:29 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 17
+[25-Jun-2025 23:48:29 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 17
+[25-Jun-2025 23:48:30 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[25-Jun-2025 23:48:30 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[25-Jun-2025 23:48:30 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 17
+[25-Jun-2025 23:48:30 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 17
+[26-Jun-2025 01:08:40 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:40 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:40 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:40 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:43 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:43 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:43 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:43 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Undefined variable $producto in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 01:08:44 UTC] PHP Warning:  Trying to access array offset on null in C:\laragon\www\IntroduccionPHP\08_html.php on line 16
+[26-Jun-2025 02:06:26 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\IntroduccionPHP\10_foreach.php on line 10
+[26-Jun-2025 02:06:26 UTC] PHP Warning:  Undefined array key "" in C:\laragon\www\IntroduccionPHP\10_foreach.php on line 10
+[26-Jun-2025 02:06:26 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\IntroduccionPHP\10_foreach.php on line 10
+[26-Jun-2025 02:06:26 UTC] PHP Warning:  Undefined array key "" in C:\laragon\www\IntroduccionPHP\10_foreach.php on line 10
+[26-Jun-2025 02:06:26 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\IntroduccionPHP\10_foreach.php on line 10
+[26-Jun-2025 02:06:26 UTC] PHP Warning:  Undefined array key "" in C:\laragon\www\IntroduccionPHP\10_foreach.php on line 10
+[26-Jun-2025 02:06:26 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\IntroduccionPHP\10_foreach.php on line 10
+[26-Jun-2025 02:06:26 UTC] PHP Warning:  Undefined array key "" in C:\laragon\www\IntroduccionPHP\10_foreach.php on line 10
+[26-Jun-2025 02:06:26 UTC] PHP Warning:  Undefined variable $i in C:\laragon\www\IntroduccionPHP\10_foreach.php on line 10
+[26-Jun-2025 02:06:26 UTC] PHP Warning:  Undefined array key "" in C:\laragon\www\IntroduccionPHP\10_foreach.php on line 10
+[26-Jun-2025 03:46:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function suma(), 0 passed in C:\laragon\www\IntroduccionPHP\14_func_args.php on line 26 and exactly 2 expected in C:\laragon\www\IntroduccionPHP\14_func_args.php:22
+Stack trace:
+#0 C:\laragon\www\IntroduccionPHP\14_func_args.php(26): suma()
+#1 {main}
+  thrown in C:\laragon\www\IntroduccionPHP\14_func_args.php on line 22
+[26-Jun-2025 03:46:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function suma(), 0 passed in C:\laragon\www\IntroduccionPHP\14_func_args.php on line 26 and exactly 2 expected in C:\laragon\www\IntroduccionPHP\14_func_args.php:22
+Stack trace:
+#0 C:\laragon\www\IntroduccionPHP\14_func_args.php(26): suma()
+#1 {main}
+  thrown in C:\laragon\www\IntroduccionPHP\14_func_args.php on line 22
+[26-Jun-2025 04:03:19 UTC] PHP Warning:  Undefined variable $calcular_total in C:\laragon\www\IntroduccionPHP\16_func_return.php on line 13
+[26-Jun-2025 04:03:19 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\laragon\www\IntroduccionPHP\16_func_return.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\IntroduccionPHP\16_func_return.php on line 13
+[26-Jun-2025 04:43:02 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:43:02 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:43:02 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:45:11 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:45:11 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:45:11 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:46:38 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:46:38 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:46:38 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:46:46 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:46:46 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[26-Jun-2025 04:46:46 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
