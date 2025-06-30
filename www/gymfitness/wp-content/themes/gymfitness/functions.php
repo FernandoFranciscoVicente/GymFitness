@@ -2,6 +2,13 @@
 //Habilitar ciertas funciones desde wordpress
 //El nombre de la función suele empezar con el tema
 
+function gymfitness_setup(){
+    //Imagenes destacadas
+    add_theme_support('post-thumbnails');
+}
+add_action('after_setup_theme', 'gymfitness_setup');
+
+
 // --Registrando el menú dinámico--
 function gymfitness_menus(){
     register_nav_menus( array(
