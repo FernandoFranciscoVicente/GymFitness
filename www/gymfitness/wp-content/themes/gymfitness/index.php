@@ -15,6 +15,7 @@ get_header();
 
     </main>
     
-</body>
-</html>
+    <?php
+    get_footer();
+    ?>
 

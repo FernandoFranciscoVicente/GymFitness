@@ -2,9 +2,13 @@
 //Habilitar ciertas funciones desde wordpress
 //El nombre de la función suele empezar con el tema
 
+// --Función que se ejecuta en cuanto se recarge la página --
 function gymfitness_setup(){
     //Imagenes destacadas
     add_theme_support('post-thumbnails');
+
+    //Titulos para SEO
+    add_theme_support('title-tag');
 }
 add_action('after_setup_theme', 'gymfitness_setup');
 
