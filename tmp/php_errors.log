@@ -116,3 +116,23 @@ Stack trace:
 [26-Jun-2025 04:46:46 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
 [26-Jun-2025 04:46:46 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
 [26-Jun-2025 04:46:46 UTC] PHP Deprecated:  Creation of dynamic property Cliente::$dato is deprecated in C:\laragon\www\IntroduccionPHP\17_class.php on line 16
+[29-Jun-2025 23:31:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\laragon\www\gymfitness\wp-content\themes\gymfitness\functions.php on line 9 and at least 2 expected in C:\laragon\www\gymfitness\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\laragon\www\gymfitness\wp-content\themes\gymfitness\functions.php(9): add_action('')
+#1 C:\laragon\www\gymfitness\wp-settings.php(695): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\gymfitness\wp-config.php(102): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\gymfitness\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#4 C:\laragon\www\gymfitness\wp-blog-header.php(13): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\gymfitness\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\gymfitness\wp-includes\plugin.php on line 441
+[29-Jun-2025 23:31:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\laragon\www\gymfitness\wp-content\themes\gymfitness\functions.php on line 9 and at least 2 expected in C:\laragon\www\gymfitness\wp-includes\plugin.php:441
+Stack trace:
+#0 C:\laragon\www\gymfitness\wp-content\themes\gymfitness\functions.php(9): add_action('')
+#1 C:\laragon\www\gymfitness\wp-settings.php(695): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\gymfitness\wp-config.php(102): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\gymfitness\wp-load.php(50): require_once('C:\\laragon\\www\\...')
+#4 C:\laragon\www\gymfitness\wp-blog-header.php(13): require_once('C:\\laragon\\www\\...')
+#5 C:\laragon\www\gymfitness\index.php(17): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\gymfitness\wp-includes\plugin.php on line 441
