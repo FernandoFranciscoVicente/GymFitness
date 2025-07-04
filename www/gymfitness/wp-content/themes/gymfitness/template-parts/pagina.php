@@ -1,8 +1,9 @@
 <?php
+//Consulta la  base de datos
 while(have_posts()): the_post();
 
 //Añadimos clases y estilos al H1 desde el php
-the_title('<h1 class="text-center texto-primario">', '</h1>');
+the_title('<h1 class="text-center texto-primario">' , '</h1>');
 //Comprobamos si existe un thumbnail
 if(has_post_thumbnail()){
     //Mostrar la imagen destacada
