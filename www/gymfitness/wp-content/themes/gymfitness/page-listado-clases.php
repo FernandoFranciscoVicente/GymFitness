@@ -22,9 +22,14 @@ get_header();
             <!--Imprimie el título de la consulta a la  BD-->
             <li class="card">
                 <div class="contenido">
+                    <!--Imprimie las imágenes destacadas de las clases-->
+                    <?php the_post_thumbnail(); ?>
+                    <!--Retornar la ruta de un enlace dinámica-->
+                    <a href="<?php the_permalink(); ?>">
                     <h3>
                         <?php the_title(); ?>
                     </h3>
+                    </a>
                 </div>
             </li>
             <?php

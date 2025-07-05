@@ -3,7 +3,7 @@
     <div class="contenido-footer">
         <?php
         $args = array(
-            //Especificar el id del menú se requiere agregar 
+            //Especificar el id del menú que se requiere agregar 
             'theme_location' => 'menu-principal',
             //Cambiamos el div por un nav que contendrá el menú
             'container' => 'nav',
