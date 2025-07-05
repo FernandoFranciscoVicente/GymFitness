@@ -6,6 +6,9 @@
 get_header();
 ?>
     <main class="contenedor seccion">
+        <?php
+        get_template_part('template-parts/pagina');
+        ?>
         <ul class="listado-grid">
             <?php
             //Arreglo asociativo
@@ -21,15 +24,22 @@ get_header();
             ?>
             <!--Imprimie el título de la consulta a la  BD-->
             <li class="card">
+            <!--Imprimie las imágenes destacadas de las clases-->
+            <?php the_post_thumbnail(); ?>
                 <div class="contenido">
-                    <!--Imprimie las imágenes destacadas de las clases-->
-                    <?php the_post_thumbnail(); ?>
                     <!--Retornar la ruta de un enlace dinámica-->
                     <a href="<?php the_permalink(); ?>">
                     <h3>
                         <?php the_title(); ?>
                     </h3>
                     </a>
+                    <!--Obtiene un valor y lo asigna a una variable-->
+                    <?php $hora_inicio = get_field('hora_inicio'); ?>
+                    <?php $hora_termino = get_field('hora_termino'); ?>
+                    <p>
+                        <?php the_field('dias_clase'); ?> - 
+                        <?php echo $hora_inicio . " a " . $hora_termino ?>
+                    </p>
                 </div>
             </li>
             <?php
